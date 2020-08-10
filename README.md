@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
-![saurav3199](https://github-readme-stats.vercel.app/api?username=saurav3199&show_icons=true&theme=radical)
+![saurav3199](https://github-readme-stats.vercel.app/api?username=saurav3199&show_icons=true&theme=tokyonight)
 
 <!--
 - 🌱 I’m currently learning ...
