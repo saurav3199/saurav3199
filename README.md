@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently solving CTF problems
 - 📫 How to reach me: [Discord](https://discord.com/users/447785412795301900) 
-- 🌱 Goal of 2020: To contribute more 
+- 🌱 Goal of 2021: To contribute more 
 <br/>
 <br/>
 
