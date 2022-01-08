@@ -5,12 +5,10 @@
 -->
 
 
-<!--
-- 🔭 I’m currently solving CTF problems
--->
-- 📫 How to reach me: [Discord](https://discord.com/users/447785412795301900) 
-<!-- - 🌱 Goal of 2021: To contribute more 
--->
+
+- 🔭 Somewhere solving CTF problems
+- 🌱 Goal of 2021: solve re
+- 📫 How to reach me: [Discord](https://discord.com/users/447785412795301900)
 <br/>
 <br/>
 
