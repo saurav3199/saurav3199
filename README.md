@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-![saurav3199](https://github-readme-stats.vercel.app/api?username=saurav3199&show_icons=true&theme=tokyonight)
+![saurav3199](https://github-readme-stats.vercel.app/api?username=saurav3199&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 - 🌱 I’m currently learning ...
