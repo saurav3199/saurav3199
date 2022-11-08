@@ -7,7 +7,7 @@
 
 
 - 🔭 Somewhere solving CTF problems
-- 🌱 Goal of 2022: solve re
+- 🌱 Goal of 21st century: solve re
 - 📫 How to reach me: [Discord](https://discord.com/users/447785412795301900)
 <br/>
 <br/>
